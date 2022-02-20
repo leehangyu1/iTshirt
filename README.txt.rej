@@ -1,0 +1,8 @@
+diff a/README.txt b/README.txt	(rejected hunks)
+@@ -3,3 +3,4 @@
+ 개발자 목록
+ 1. 고양이
+\ No newline at end of file
++2. 문어
+ 3. 너구리
+\ No newline at end of file
